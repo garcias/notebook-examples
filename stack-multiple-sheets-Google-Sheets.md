@@ -1,4 +1,8 @@
-In this data set, a course can be rated on 69 different criteria. There are 12 multiple courses, each rated by 9 evaluators on all 69 criteria. To enter the data, each evaluator received a separate sheet containing a 69 x 12 array with criteria in rows and courses in columns. After entering the data, the evaluators needed to gather all their responses in a single sheet, stacked vertically. They also wanted a new column to indicate which evaluator is responsible for a given row of ratings. 
+# 2018-01-08
+
+## Stack matrices from different sheets into a single sheet
+
+In this data set, a course can be rated on 69 different criteria. There are 12 multiple courses, each rated by 9 evaluators on all 69 criteria. To enter the data, each evaluator received a separate sheet containing a 69 x 12 matrix with criteria in rows and courses in columns. After entering the data, the evaluators needed to gather all their responses in a single sheet, stacked vertically. They also wanted a new column to indicate which evaluator is responsible for a given row of ratings. 
 
 - Source data located in sheets `qVE`, `qSG`, etc.
     - columns A thru N contain the rating for a given class on each sheet
